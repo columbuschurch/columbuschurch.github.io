@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "St Mary&#x27;s Syro Malabar Catholic Mission",
+    "description": "",
+    "home_page_url": "https://columbuschurch.github.io",
+    "feed_url": "https://columbuschurch.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "syrocolumbus"
+    },
+    "items": [
+    ]
+}
